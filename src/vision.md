@@ -1,1 +1,1 @@
-# Visiion Statement
+# Vision Statement
