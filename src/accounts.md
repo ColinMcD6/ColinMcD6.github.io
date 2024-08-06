@@ -4,8 +4,8 @@ Each user of the application needs their own account. This gives the ability to 
 
 The process of creating a new user and logging in is shown in the screen recording below:
 
-<iframe width="1112" height="695" src="https://www.youtube.com/embed/ZCwouAIdToc" title="create acct w login" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1112" height="695" src="https://www.youtube.com/embed/ZCwouAIdToc" title="create user account and log in" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 The account management page:
 
-<iframe width="1112" height="695" src="https://www.youtube.com/embed/zji8NdNiQsw" title="login go to account" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1112" height="695" src="https://www.youtube.com/embed/zji8NdNiQsw" title="user account page" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
