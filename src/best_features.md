@@ -1,1 +1,3 @@
 # Best Working Features
+
+Althogh there are many great features in the app, we are especially proud of the responsiveness in comparison to the initial implementation in iteration 1. We are also pleased with the search and filtering user interface. It works much better than anticipated when planning for the this feature. It is easy and convenient to use and bug free. Filtering the search with tags was a challenging task but we managed to complete it.

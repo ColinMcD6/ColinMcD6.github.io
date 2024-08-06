@@ -1,1 +1,1 @@
-# Intented Users
+# Intended Users

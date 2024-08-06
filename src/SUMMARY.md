@@ -3,7 +3,7 @@
 # About Project
 
 - [Vision Statement](./vision.md)
-- [Intented Users](./users.md)
+- [Intended Users](./users.md)
 - [Functionality](./functionality.md)
   - [Viewing a Recipe](./view_recipe.md)
   - [User Accounts](./accounts.md)
