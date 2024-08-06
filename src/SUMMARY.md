@@ -20,7 +20,9 @@
   - [Melanie Turman](./melanie.md)
   - [Oluwaseyi Asoga](./seyi.md)
 
-# Development Experience (Retrospective)
+# Development Experience (Postmortem)
+- [Issues During the Development Process](./issues.md)
+- [Areas of Improvement](./improvement.md)
 - [Most Time Consuming Tasks](./time_consuming.md)
 - [Best Working Features](./best_features.md)
 - [How Our Project Vision Changed](./vision_changes.md)
