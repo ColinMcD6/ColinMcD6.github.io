@@ -2,7 +2,7 @@
 
 After Iteration 2 of the project, we identified several areas that need improvement to enhance our overall efficiency and effectiveness of out team. We came up with several areas of improvement:
 
-**Communication Frequency**: We noticed our communication was too infrequent keep track of our progress. This lead to a last-minute rush resulting in unnecessary stress and a less efficient workflow.
+**Communication Frequency**: We noticed our communication was too infrequent to keep track of our progress. This lead to a last-minute rush resulting in unnecessary stress and a less efficient workflow.
 
 To address the communication challenges we held short team meetings after each class and once over the weekend. During these meetings, each team member provided an update on their current tasks, what they’ve accomplished, and what is left to do. This ensured that we have the time to address any issues or adjustments needed. We found this greatly improved our team's communication and contributed to Iteration 3 tasks being completed on schedule.
 
